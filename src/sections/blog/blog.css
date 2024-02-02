@@ -1,0 +1,135 @@
+.blog_section {
+    margin-top: 195px;
+}
+
+.blog_title {
+    font-family: 'Gelasio';
+    font-size: 43px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.blog_description {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 20px 0 56px 0;
+    opacity: 0.6;
+}
+
+.col-6 {
+    width: 554px;
+}
+
+.blog_card img {
+    width: 100%;
+}
+
+.blog_card_title {
+    font-family: 'Gelasio';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 1);
+    text-align: left;
+    margin-top: 33px;
+}
+
+.blog_card_text {
+    opacity: 0.6;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28.8px;
+    color: rgba(0, 0, 0, 1);
+    text-align: left;
+    margin: 10px 0;
+}
+
+.blog_card_link {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.forGAP {
+    gap: 32px;
+}
+
+.col-12 {
+    display: flex;
+    gap: 27px;
+}
+
+.forImage img {
+    width: 263px;
+    border-radius: 10px;
+}
+
+.my-3 {
+    margin: 28px 0;
+}
+
+.forTexts .card_title_1 {
+    font-family: 'Gelasio';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 33px;
+
+}
+
+.card_title_2 {
+    font-family: 'Gelasio';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 27px;
+}
+
+.blog_card_text2 {
+    margin: 13px 0 10px 0;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    opacity: 0.6;
+}
+
+.card_title_3 {
+    font-family: 'Gelasio';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 29px;
+}
+
+.card_link_ {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    opacity: 0.8;
+    color: rgba(0, 0, 0, 1);
+}
